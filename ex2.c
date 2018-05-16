@@ -1,4 +1,3 @@
-// 208561357 Bar Katz
 
 #include <stdio.h>
 #include <string.h>
